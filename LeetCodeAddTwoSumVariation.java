@@ -1,3 +1,13 @@
+/*
+Task
+We have a catalog of song titles (and their lengths) that we play at a local radio station. 
+We have been asked to play two of those songs in a row, and they must add up to exactly seven minutes long.  
+
+Given a list of songs and their durations,
+write a function that returns the names of any two distinct songs that add up to exactly seven minutes.
+If there is no such pair, return an empty collection. 
+*/
+
 public class LeetCodeAddTwoSumVariation {
 
     public static void main(String[] argv) {
